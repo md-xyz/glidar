@@ -2135,7 +2135,7 @@ figcaption {
 
 .main-image-overlay {
   z-index: 3;
-  background-color: rgba(14, 7, 4, .27);
+  background-color: rgba(14, 7, 4, .85);
   position: absolute;
   top: 0%;
   bottom: 0%;
