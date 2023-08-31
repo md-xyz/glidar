@@ -2889,6 +2889,7 @@ figcaption {
 
   .navbar2_menu.is-page-height-tablet {
     height: 100dvh;
+    background-color: rgba(8, 8, 8, .97);
     padding-bottom: 6.5rem;
     transition: height .5s;
   }
